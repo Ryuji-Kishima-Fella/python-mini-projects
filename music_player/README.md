@@ -1,7 +1,3 @@
-## 📚 Credits
-- Original source: [GeeksforGeeks](https://www.geeksforgeeks.org/python/build-a-music-player-with-tkinter-and-pygame-in-python/)
-- Modified by Ryuji Kijima for personal learning and practice
-
 # 🎵 Music Player (Tkinter + Pygame)
 
 A simple desktop music player built using **Tkinter** and **Pygame**.  
@@ -39,6 +35,11 @@ Select a folder containing MP3 files to play.
 - Handling events and playlists in Python
 
 - Integrating web-downloaded assets in local apps
+
+
+## 📚 Credits
+- Original source: [GeeksforGeeks](https://www.geeksforgeeks.org/python/build-a-music-player-with-tkinter-and-pygame-in-python/)
+- Modified by Ryuji Kijima for personal learning and practice
 
 
 
