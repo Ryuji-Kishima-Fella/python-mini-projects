@@ -44,6 +44,6 @@ You can play it using VLC or any media player.
 
 ## 📖 Credits
 
-- Original Tutorial: GeeksforGeeks
+- Original Tutorial: [GeeksforGeeks](https://www.geeksforgeeks.org/python/create-a-screen-recorder-using-python/)
 
 - Modified and documented by Ryuji Kijima
