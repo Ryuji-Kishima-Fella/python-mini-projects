@@ -48,6 +48,42 @@ To run any project:
    ```bash
    git clone https://github.com/<your-username>/python-mini-projects.git
    ```
-2. Navigate into the project folder
-3. 
-4. 
+2. Open the terminal and navigate into the project folder:
+   ```bash
+   cd mood_tracker
+   ```
+4. Run the script:
+   ```bash
+   python mood_tracker.py
+   ```
+
+## 🧩 Repository Structure
+```yaml
+python-mini-projects/
+├── mood_tracker/
+├── music_player/
+├── modern_music_player/
+├── screen_recorder/
+└── digital_clock/
+```
+
+## 🚀 Future Plans
+- Build GUI version of Mood Tracker
+- Add visualizations (Matplotlib)
+- Create a web-based Flask version
+- Expand documentation and testing coverage
+- Possibly turn selected projects into mini open-source apps
+
+## 📖 License
+This repository is open for learning and sharing under the MIT License.
+You’re welcome to study, modify, and use the code for educational or personal purposes.
+
+## 🧑‍💻 Author
+Ryuji Kishima
+```
+Undergraduate in Computer Science @ University of the People
+Self-learning developer exploring Python, GUI design, and open-source collaboration.
+```
+
+GitHub: @Ryuji-Kishima-Fella
+
