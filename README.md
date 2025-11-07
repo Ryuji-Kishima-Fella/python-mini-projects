@@ -14,6 +14,22 @@ I’m keeping this repo public as a **portfolio of my coding journey** — showi
 
 ---
 
+---
+
+## 🖼️ Project Gallery
+
+| Project | Preview | Description |
+|----------|----------|-------------|
+| **😌 Mood Tracker** | ![Mood Tracker](./assets/mood_tracker_console.png) | Console-based app to log moods, view summaries, and export history to CSV. |
+| **🎵 Music Player** | ![Music Player](./assets/music_player_ui.png) | Tkinter + Pygame music player with basic controls. |
+| **🎧 Modern Music Player Pro** | ![Modern Player](./assets/modern_music_player_ui.png) | CustomTkinter-based upgraded version with progress bar and volume control. |
+| **🎥 Screen Recorder** | ![Screen Recorder](./assets/screen_recorder_console.png) | Records your screen and saves it as a video file using PyAutoGUI + OpenCV. |
+| **🕒 Digital Clock** | ![Digital Clock](./assets/digital_clock_ui.png) | Minimalist Turtle graphics clock showing current time. |
+
+> 🧩 *Each image is stored locally in the `/assets/` folder for easy maintenance.*
+
+---
+
 ## 📁 Projects Overview
 
 | Project | Description | Technologies |
