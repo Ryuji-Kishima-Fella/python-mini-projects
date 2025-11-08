@@ -45,7 +45,7 @@ I’m keeping this repo public as a **portfolio of my coding journey** — showi
 
 | Project | Description | Version | Repository |
 |----------|--------------|----------|-------------|
-| 😌 Mood Tracker | Track, view, and edit your moods. Includes CSV export and date filtering. | ![Version](https://img.shields.io/badge/version-1.3.0-blue) | [mood-tracker](https://github.com/Ryuji-Kishima-Fella/mood_tracker.git) |
+| 😌 Mood Tracker | Track, view, and edit your moods. Includes CSV export and date filtering. | ![Version](https://img.shields.io/github/v/tag/Ryuji-Kishima-Fella/mood_tracker?sort=semver) | [mood-tracker](https://github.com/Ryuji-Kishima-Fella/mood_tracker.git) |
 
 ![Submodules](https://img.shields.io/badge/submodules-1-blue)
 
