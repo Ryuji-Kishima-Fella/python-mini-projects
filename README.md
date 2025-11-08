@@ -54,8 +54,16 @@ I’m keeping this repo public as a **portfolio of my coding journey** — showi
 ![GitHub repo size](https://img.shields.io/github/repo-size/Ryuji-Kishima-Fella/mood_tracker)
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/Ryuji-Kishima-Fella/mood_tracker?sort=semver)
 
+---
+
+### 📊 Submodule Relationship Diagram
+```mermaid
+graph TD;
+   A[python-mini-projects] --> B[mood_tracker];
+```
 
 ---
+
 
 ## 🧠 Learning Goals
 
@@ -91,7 +99,7 @@ To run any project:
 ## 🧩 Repository Structure
 ```yaml
 python-mini-projects/
-├── mood_tracker/
+├── mood_tracker/ ← linked submodule → https://github.com/Ryuji-Kishima-Fella/mood_tracker
 ├── music_player/
 ├── modern_music_player/
 ├── screen_recorder/
