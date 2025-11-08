@@ -52,6 +52,7 @@ I’m keeping this repo public as a **portfolio of my coding journey** — showi
 ![GitHub Repo stars](https://img.shields.io/github/stars/Ryuji-Kishima-Fella/mood_tracker?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ryuji-Kishima-Fella/mood_tracker)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Ryuji-Kishima-Fella/mood_tracker)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/Ryuji-Kishima-Fella/mood_tracker?sort=semver)
 
 
 ---
