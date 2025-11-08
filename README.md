@@ -34,7 +34,7 @@ I’m keeping this repo public as a **portfolio of my coding journey** — showi
 
 | Project | Description | Technologies |
 |----------|--------------|---------------|
-| [😌 Mood Tracker](./mood_tracker) | Log and analyze your daily moods. Features include history, summary, and CSV export. | Python, File I/O, CSV |
+| [😌 Mood Tracker](./mood_tracker) | | [😌 Mood Tracker](./mood_tracker) | Log and analyze your daily moods. Now includes view-by-date, editing, and CSV export. | Python, File I/O, CSV, CLI | **v1.3.0** |
 | [🎵 Music Player](./music_player) | Tkinter-based music player built with Pygame, inspired by GeeksforGeeks tutorial. | Tkinter, Pygame, Requests |
 | [🎧 Modern Music Player Pro](./modern_music_player) | Upgraded version with CustomTkinter UI, volume control, and theme switcher. | CustomTkinter, Pygame, Mutagen |
 | [🎥 Screen Recorder](./screen_recorder) | Simple screen recorder using PyAutoGUI and OpenCV. | PyAutoGUI, OpenCV, NumPy |
