@@ -49,9 +49,9 @@ I’m keeping this repo public as a **portfolio of my coding journey** — showi
 
 ![Submodules](https://img.shields.io/badge/submodules-1-blue)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Ryuji-Kishima-Fella/mood-tracker?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/Ryuji-Kishima-Fella/mood-tracker)
-![GitHub repo size](https://img.shields.io/github/repo-size/Ryuji-Kishima-Fella/mood-tracker)
+![GitHub Repo stars](https://img.shields.io/github/stars/Ryuji-Kishima-Fella/mood_tracker?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/Ryuji-Kishima-Fella/mood_tracker)
+![GitHub repo size](https://img.shields.io/github/repo-size/Ryuji-Kishima-Fella/mood_tracker)
 
 
 ---
