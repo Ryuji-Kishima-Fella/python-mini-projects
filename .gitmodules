@@ -1,0 +1,3 @@
+[submodule "mood_tracker"]
+	path = mood_tracker
+	url = https://github.com/Ryuji-Kishima-Fella/mood_tracker.git
